@@ -1,0 +1,7 @@
+# CleanLoc requirements
+# Most of the app uses only Python standard library.
+
+# Currently no external package is required.
+# Uncomment if needed later:
+
+# pyinstaller
