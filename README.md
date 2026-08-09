@@ -11,7 +11,27 @@ One goal: show honest numbers and let you clean safely.
 
 ## Features
 
+## Screenshots
 
+### Quick Clean
+
+![Quick Clean](assets/screenshots/01.png)
+
+### Startup Manager
+
+![Startup](assets/screenshots/02.png)
+
+### Large Files Finder
+
+![Large Files](assets/screenshots/03.png)
+
+### Duplicate Files Finder
+
+![Duplicates](assets/screenshots/04.png)
+
+### Settings
+
+![Settings](assets/screenshots/05.png)
 
 ### 1. Quick Clean
 
