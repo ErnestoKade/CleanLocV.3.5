@@ -2,16 +2,17 @@
 
 **© ErnestoKade - 2026**
 
+<p align="center">
+  <img src="assets/banner.png" alt="CleanLoc banner" width="100%">
+</p>
+
+
 **CleanLoc** is a 100% local, open-source Windows cleaner.
 
 No ads. No telemetry. No internet required.  
 One goal: show honest numbers and let you clean safely.
 
 ---
-
-## Features
-
-## Screenshots
 
 ### Quick Clean
 
